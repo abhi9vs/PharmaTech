@@ -4,4 +4,4 @@ PharmaTech is a web-based pharmacy management system designed to simplify medici
 
 The system includes separate Admin and User login functionality, secure authentication, real-time stock management, and an intuitive dashboard to streamline pharmacy operations and reduce manual work.
 
-Key Features:
+
